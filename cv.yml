@@ -21,9 +21,11 @@ education:
 
 goal: for money and honey
 
-programing_languages: none
+programing_languages:
+ - name: none
   
-have_a_job:
+job:
+    have_a_job: yes 
     title: laser equipment operator
     company: Cutting Center Minsk
 
