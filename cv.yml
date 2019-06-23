@@ -1,6 +1,18 @@
-github.com/CommercialWhore
-{   
-    "secret_code": "u1sv2zz",
-    "github": "CommercialWhore"
-}
-  
+name:
+    first: "Mikhail"
+    last: "Pinchuk"
+contacts:
+    skype: commercial_whore
+    email: "8788209@mail.ru"
+
+social:
+    vk: "id16773650"
+
+github:
+    name: "CommercialWhore"
+    url: "https://github.com/CommercialWhore"
+
+education:
+   title: Technological equipment of machine-building production
+    when: 2007-2011
+    institution: "Vocational and Technical College" of "REPUBLICAN INSTITUTE FOR VOCATIONAL EDUCATION"
