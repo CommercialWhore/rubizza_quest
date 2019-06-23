@@ -21,11 +21,11 @@ education:
 
 goal: i want to learn ruby and become a cool coder
 
-programing_languages:
-    name: Ruby
+languages:
+    programing_languages: 
+        - name: HTML/CSS (beginer)
   
 job:
-    have_a_job: yes
     title: laser equipment operator
     company: Cutting Center Minsk
 
