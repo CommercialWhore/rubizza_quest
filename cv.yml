@@ -22,8 +22,7 @@ education:
 goal: i want to learn ruby and become a cool coder
 
 languages:
-    programing_languages: 
-        - name: HTML/CSS (beginer)
+    programing_languages: HTML/CSS (beginer)
   
 job:
     title: laser equipment operator
