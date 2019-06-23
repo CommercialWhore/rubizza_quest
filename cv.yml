@@ -19,10 +19,10 @@ education:
     when: 2007-2011
     institution: Vocational and Technical College of REPUBLICAN INSTITUTE FOR VOCATIONAL EDUCATION
 
-goal: for money and honey
+goal: i want to learn ruby and become a cool coder
 
 programing_languages:
- - name: none
+    name: none
   
 job:
     have_a_job: yes 
@@ -33,4 +33,4 @@ laptop: none
 
 english: Elementary
 
-hours_per_day: 10,
+hours_per_day: 10
