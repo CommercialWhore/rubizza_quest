@@ -21,18 +21,8 @@ education:
 
 goal: i want to learn Ruby and become a cool coder
 
-programing_languages:
-    - name: Ruby
-    - name: Ruby on Rails
-    - name: JavaScript
-    - name: Shell
-    - name: PHP
-    - name: Objective-C
-    - name: Erlang
-    - name: Python
-    - name: Node.js
-    - name: HTML/CSS (Web Standards)
-  
+programing_languages:  nonenonenonenonenonenonenonenonenonenonenonenone
+
 job:
     title: laser equipment operator
     company: Cutting Center Minsk
