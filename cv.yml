@@ -11,8 +11,8 @@ social:
     vk: "id16773650"
 
 github:
-    name: "CommercialWhore"
-    url: "https://github.com/CommercialWhore"
+    name: "PinchukM"
+    url: "https://github.com/PinchukM"
 
 education:
     title: Technological equipment of machine-building production
@@ -22,15 +22,15 @@ education:
 goal: i want to learn ruby and become a cool coder
 
 programing_languages:
-    name: none
+    name: Ruby
   
 job:
-    have_a_job: yes 
+    have_a_job: yes
     title: laser equipment operator
     company: Cutting Center Minsk
 
 laptop: none
 
-english: Elementary
+english: Pre-intermediate
 
 hours_per_day: 10
