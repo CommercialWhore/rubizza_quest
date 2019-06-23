@@ -1,9 +1,9 @@
 full_name: "Mikhail Pinchuk"
 
-age: 27
+age: 27,
 
 contacts:
-    phone_number: 375298788209
+    phone_number: +375298788209,
     skype: commercial_whore
     email: "8788209@mail.ru"
 
@@ -33,4 +33,4 @@ laptop: none
 
 english: Elementary
 
-hours_per_day: 10
+hours_per_day: 10,
